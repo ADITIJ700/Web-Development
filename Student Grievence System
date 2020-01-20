@@ -1,1 +1,236 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="HandheldFriendly" content="true">
+	<title>Home</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="animate.css"> <!--wow js -->
+	<link rel="stylesheet" href="style.css">
+	</head>
+
+<body>
+	
+	<div class="wrapper">
+		<nav id="sidebar">
+			<div class="sidebar-header">
+						
+			<img src="icon.png" alt="Andra" class="icon-andra">
+			
+			</div>
+			<ul class="list-unstyled components">
+				<p style="font-size:25px">Student Support System</p>
+				<li >
+					<a href="#Home">Home</a>
+				</li>
+				<li>
+					<a href="#Section1">How to Apply?</a>
+				</li>
+				<li>
+					<a  href="#Section2">Features</a>
+				</li>
+				<li>
+					<a  href="#Section3">How it Works?</a>
+				</li>
+				<li>
+					<a  href="#Section3">Register</a>
+				</li>
+				<li>
+					<a href="#Login">Login</a>
+				</li>
+				
+			</ul>
+		</nav>
+	</div>
+
+<!--Home page-->
+
+	<div  class="container-fluid" style="overflow-x : hidden ;">
+		<section id="Home" class="slide  page-section">
+
+				
+	     
+
+				<div class="text_over_image" >
+						
+							
+						<h3 class="text1 wow fadeOutUp "  >  WE ARE HERE FOR YOU!</h3>
+							
+				
+		<h3 class= "text2 wow fadeOutDown " >HOW CAN WE HELP YOU?</h3>
+
+	</div>
+	<div class="Quote">
+					
+					<h3> <u>OUR OBJECTIVE</u></h3>
+					
+				
+<p style="color:white" class="para-quote">"To introduce a portal for fair, impartial and consistent mechanism for redressal of various issue faced by the students/parents ,therby maintaining a harmonous environment between Students and Administrators ,thus creating a vindictive free environment where grievences are
+resolved promptly,neutrally and confidentially"</p>
+				</div>
+			
+		</section>
+	</div>
+		<br>&nbsp;
+		<br>&nbsp;
+		<br>&nbsp;
+
+		<!--How to apply-->
+			<section id="Section1" class="slide  page-section ">
+
+				 <h1 style="text-align:center">How to apply</h1>
+				 <hr class="divider">
+				 <br>&nbsp;<br>&nbsp;
+
+                   
+                    <ul>
+												<li><u><b> Create an Account </b></u></li>
+												<br>
+                        <p>Both Students and Prospecitve Studens can create 
+                    account in the portal. Click on relevant button and fill the details to create a new account.</p>
+                    
+										<li><u><b>Verify OTP to activate  an account</b></u></li>
+										<br>
+                    <p>Verify OTP to activate account
+                            An OTP will be sent to your mobile number. Login using the username and password and click on 'OTP Verification' tab and enter the OTP to activate your account.
+                       </p>
+
+											 <li><u><b>Submit your Grievance</b></u></li>
+											 <br>
+                           <p>Once the OTP has been verified, you can submit your grievances.</p>
+                </ul>
+
+				</section>	
+         </div>
+				 <br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;
+				 <!--features-->
+		 <div class="container-fluid" style="overflow-y : hidden;overflow-x : hidden;">
+
+			<section id="Section2" class="slide page-section ">
+                    <h1 style="text-align: center">Features</h1>
+										<hr class="divider1">
+										<br>&nbsp;
+										
+<div class="flex-container">
+
+        <div class='row'>
+                <!--Main row starts-->
+             
+                   
+                   
+  <div  class='column'>
+                            <i  style="font-size: 5rem;"class="fa fa-sms text-center"></i>
+                
+                       <div>
+												<br>&nbsp;
+									<h6 class="text-center"><b>Messaging Features</b></h6>
+									<br>&nbsp;
+
+                  <p style="text-align:left">Get the latest messages, updates reagarding any schedule change,complaints and alerts 
+                        ,additionally you can submit your grievences.</p>
+                    </div>
+                    </div>
+                    <div  class='column'>
+                    <i  style="font-size: 5rem" class="fa fa-laptop-code text-center"></i>
+                    <div>
+											<br>&nbsp;
+									 <h6 class="text-center"><b>Track Status</b></h6>
+									 <br>&nbsp;
+                   <p style="text-align:left">Track the movement of grievances submitted and actions taken </p>
+</div>
+</div>
+                    <div class='column'>
+                            <i  style="font-size: 5rem"  class="fa fa-book-open text-center"></i>
+                            <div>
+															<br>&nbsp;
+											<h6 class="text-center" ><b>Submit your Grievences</b></h6>
+											<br>&nbsp;
+                      <p style="text-align:left">Students can submit grievances  with necessary documents, if  they encounter any.</p>
+        
+                   
+                        </div>
+                        </div>
+</div>
+                    </section>
+            </div>
+            
+                </div>
+          
+			</section>
+			<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;
+			
+
+
+			<!--How it works-->
+				<div  class="container-fluid" style="overflow-y :hidden;overflow-x : hidden;">
+						<section id="Section3" class="slide page-section">
+
+					<h1 style="text-align: center">How it works</h1>
+				<hr class="divider2">
+        <div class="timeline">
+					<div class="container left">
+							<div class="content"> <!--list begins-->
+							<h3>Grievance submission</h3>
+							<p style="text-align: left">Submit grievances related to academics, 
+									examination, results, complaints and suggestions related to institutions, management and universities.</p>
+						 </div>
+					</div>
+				           <!--unordered list-->
+				
+							 
+									 <div class="container right">	
+					
+					<div class="content"> <!--list begins1-->
+							<h3>Nodal officer in Universities
+								</h3>
+								<p >A nodal officer at each University/Institution will attend the grievances received and will forward 
+									it to the concerned personnel for redressel actions. Portal will be updated with most recent information.</p>
+						 </div>
+						 </div>
+						 <div class="container left">
+					<div class="content"> <!--list begins2-->
+							<h3>Status Updates
+								</h3>
+								<p>Comments and actions taken at each level will be updated in the portal</p>
+						 </div>
+						</div>
+						<div class="container right">	
+						<div class="content"> <!--list begins2-->
+							<h3>Continuous monitoring by Minister's Office
+								</h3>
+								<p >Portal will be monitored by Minister's Office and
+									 necessary actions will be taken for delayed responses towards grievances submitted.</p>
+						 </div>
+				</div>   
+			</div>  
+		</section>
+	           </div>
+			
+	
+
+
+
+
+
+
+
+
+		   <script src="https://github.com/graingert/WOW/blob/master/dist/wow.min.js"></script>
+         <script>
+              new WOW().init();
+             </script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+
+</html>
 
